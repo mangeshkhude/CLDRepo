@@ -1,0 +1,4481 @@
+{
+  "Aqua": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Arial",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#183D68"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#B3CDF3"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EFEFEE"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Arial",
+      "Size": "14px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#ac8f00"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "Anemone": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Arial",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#68264D"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#D7D2CA"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EAEAE8"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Arial",
+      "Size": "12px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#AE4A75"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "Berries": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Arial",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#35354F"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Arial",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#677FAD"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EFEFEE"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Arial",
+      "Size": "12px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#770E07"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "Chestnut": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Arial",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#663300"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Arial",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#996600"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EAEAE8"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Arial",
+      "Size": "12px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#663300"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "Denim": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Arial",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#2F587C"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#D9DABF"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#F3F3EA"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Arial",
+      "Size": "12px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#C36F14"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "Modern_Monkey": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Arial",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#5B5A4B"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#333333",
+      "Font": "Arial",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#EAEAE8"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EAEAE8"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Arial",
+      "Size": "12px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#809C37"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "Panda": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Arial",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#000000"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#EAEAE8"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EAEAE8"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Arial",
+      "Size": "12px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#000000"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "Rain": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Arial",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#467895"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#DBE6EC"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EFEFEF"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Arial",
+      "Size": "12px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#69434E"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "Seriously_Blue": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Arial",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#000066"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#EAEAE8"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EAEAE8"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Arial",
+      "Size": "12px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#000066"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "Summer": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Arial",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#4DA155"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#FFFC88"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#FFFFD3"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Arial",
+      "Size": "12px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#FF6866"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "Velvet": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Arial",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#8F8F00"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#D9DABF"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#F3F3EA"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Arial",
+      "Size": "12px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#BB004D"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "Vintage": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Arial",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#43978F"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#F3E9D8"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#F7F2E8"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Arial",
+      "Size": "12px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#BC6162"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "testCustomTheme1": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Comic Sans",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#FF3300"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Comic Sans",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#C6332A"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Comic Sans",
+      "Size": "14px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Comic Sans",
+      "Size": "24px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Comic Sans",
+      "Size": "12px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EFEFEE"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "18px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Comic Sans",
+      "Size": "12px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#AC8F00"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Comic Sans",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "testCustomTheme2": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Tahoma",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#E8EC75"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Tahoma",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#FFFBB9"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Tahoma",
+      "Size": "14px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Tahoma",
+      "Size": "24px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Tahoma",
+      "Size": "12px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EFEFEE"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "18px"
+    },
+    "ErrorText": {
+      "Color": "#E8EC75",
+      "Font": "Tahoma",
+      "Size": "12px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#FFFBB9"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Tahoma",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "testCustomTheme3": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Helvetica",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#4F7A27"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Helvetica",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#A7C23D"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Helvetica",
+      "Size": "14px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Helvetica",
+      "Size": "24px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Helvetica",
+      "Size": "12px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EFEFEE"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "18px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Helvetica",
+      "Size": "12px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#AC8F00"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Helvetica",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#FFFFFF"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "testCustomTheme4": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Courier New",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#001E57"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Courier New",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#0042AA"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Courier New",
+      "Size": "14px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Courier New",
+      "Size": "24px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Courier New",
+      "Size": "12px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EFEFEE"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "18px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Courier New",
+      "Size": "12px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#AC8F00"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Courier New",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "testCustomTheme5": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Arial",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#7B219F"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#D357FE"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "14px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "24px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "12px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EFEFEE"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "18px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Arial",
+      "Size": "12px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#AC8F00"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "testCustomGroupTheme1": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Comic Sans",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#FF3300"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FF3300"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Comic Sans",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#C6332A"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Comic Sans",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Comic Sans",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Comic Sans",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EFEFEE"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Comic Sans",
+      "Size": "14px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#AC8F00"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Comic Sans",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "ChangeTheme1": {
+    "PageBackground": {
+      "Color": "#7B219F"
+    },
+    "SurveyTitle": {
+      "Color": "#000000",
+      "Font": "Comic Sans",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#CC0000"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFCB3E"
+    },
+    "PageTitle": {
+      "Color": "#992ABD",
+      "Font": "Comic Sans",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#F19E2D"
+    },
+    "PageDescription": {
+      "Color": "#FF6866",
+      "Font": "Comic Sans",
+      "Size": "14px"
+    },
+    "QuestionText": {
+      "Color": "#FFCB3E",
+      "Font": "Comic Sans",
+      "Size": "24px"
+    },
+    "AnswerText": {
+      "Color": "#FFCB3E",
+      "Font": "Comic Sans",
+      "Size": "12px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#467895"
+    },
+    "RequiredAsterisk": {
+      "Color": "#FF3300",
+      "Font": "Verdana",
+      "Size": "18px"
+    },
+    "ErrorText": {
+      "Color": "#FF3300",
+      "Font": "Comic Sans",
+      "Size": "12px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#000066"
+    },
+    "ProgressBarText": {
+      "Color": "#CC0000",
+      "Font": "Comic Sans",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CC0000"
+    },
+    "ProgressBarBackground": {
+      "Color": "#000000"
+    },
+    "SurveyBackground": {
+      "Color": "#00858B",
+      "ImageChange": "3c385bf5-fc29-59de-8e83-0b2dd24f7a8b"
+    }
+  },
+  "FontAndaleMono": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Andale Mono",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#183D68"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Andale Mono",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#B3CDF3"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Andale Mono",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Andale Mono",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Andale Mono",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EFEFEE"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Andale Mono",
+      "Size": "14px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#AC8F00"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Andale Mono",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "FontArial": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Arial",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#183D68"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#B3CDF3"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EFEFEE"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Arial",
+      "Size": "14px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#AC8F00"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "FontArialBlack": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Arial Black",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#183D68"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Arial Black",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#B3CDF3"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Arial Black",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Arial Black",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Arial Black",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EFEFEE"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Arial Black",
+      "Size": "14px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#AC8F00"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Arial Black",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "FontBookAntiqua": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Book Antiqua",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#183D68"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Book Antiqua",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#B3CDF3"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Book Antiqua",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Book Antiqua",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Book Antiqua",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EFEFEE"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Book Antiqua",
+      "Size": "14px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#AC8F00"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Book Antiqua",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "FontComicSansMS": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Comic Sans",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#183D68"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Comic Sans",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#B3CDF3"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Comic Sans",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Comic Sans",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Comic Sans",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EFEFEE"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Comic Sans",
+      "Size": "14px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#AC8F00"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Comic Sans",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "FontCourierNew": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Courier New",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#183D68"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Courier New",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#B3CDF3"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Courier New",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Courier New",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Courier New",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EFEFEE"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Courier New",
+      "Size": "14px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#AC8F00"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Courier New",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "FontDroidSerif": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Droid Serif",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#183D68"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Droid Serif",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#B3CDF3"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Droid Serif",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Droid Serif",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Droid Serif",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EFEFEE"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Droid Serif",
+      "Size": "14px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#AC8F00"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Droid Serif",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "FontGaramond": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Garamond",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#183D68"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Garamond",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#B3CDF3"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Garamond",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Garamond",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Garamond",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EFEFEE"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Garamond",
+      "Size": "14px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#AC8F00"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Garamond",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "FontGeorgia": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Georgia",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#183D68"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Georgia",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#B3CDF3"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Georgia",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Georgia",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Georgia",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EFEFEE"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Georgia",
+      "Size": "14px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#AC8F00"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Georgia",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "FontHelvetica": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Helvetica",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#183D68"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Helvetica",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#B3CDF3"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Helvetica",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Helvetica",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Helvetica",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EFEFEE"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Helvetica",
+      "Size": "14px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#AC8F00"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Helvetica",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "FontHelveticaNeue": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Helvetica Neue",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#183D68"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Helvetica Neue",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#B3CDF3"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Helvetica Neue",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Helvetica Neue",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Helvetica Neue",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EFEFEE"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Helvetica Neue",
+      "Size": "14px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#AC8F00"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Helvetica Neue",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "FontImpact": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Impact",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#183D68"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Impact",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#B3CDF3"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Impact",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Impact",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Impact",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EFEFEE"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Impact",
+      "Size": "14px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#AC8F00"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Impact",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "FontLato": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Lato",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#183D68"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Lato",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#B3CDF3"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Lato",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Lato",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Lato",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EFEFEE"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Lato",
+      "Size": "14px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#AC8F00"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Lato",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "FontMerriweather": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Merriweather",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#183D68"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Merriweather",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#B3CDF3"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Merriweather",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Merriweather",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Merriweather",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EFEFEE"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Merriweather",
+      "Size": "14px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#AC8F00"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Merriweather",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "FontMontserrat": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Montserrat",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#183D68"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Montserrat",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#B3CDF3"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Montserrat",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Montserrat",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Montserrat",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EFEFEE"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Montserrat",
+      "Size": "14px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#AC8F00"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Montserrat",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "FontOpenSans": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Open Sans",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#183D68"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Open Sans",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#B3CDF3"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Open Sans",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Open Sans",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Open Sans",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EFEFEE"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Open Sans",
+      "Size": "14px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#AC8F00"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Open Sans",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "FontPalatino": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Palatino",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#183D68"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Palatino",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#B3CDF3"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Palatino",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Palatino",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Palatino",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EFEFEE"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Palatino",
+      "Size": "14px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#AC8F00"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Palatino",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "FontRoboto": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Roboto",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#183D68"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Roboto",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#B3CDF3"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Roboto",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Roboto",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Roboto",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EFEFEE"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Roboto",
+      "Size": "14px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#AC8F00"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Roboto",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "FontTahoma": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Tahoma",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#183D68"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Tahoma",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#B3CDF3"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Tahoma",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Tahoma",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Tahoma",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EFEFEE"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Tahoma",
+      "Size": "14px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#AC8F00"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Tahoma",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "FontTerminal": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Terminal",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#183D68"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Terminal",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#B3CDF3"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Terminal",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Terminal",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Terminal",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EFEFEE"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Terminal",
+      "Size": "14px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#AC8F00"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Terminal",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "FontTimesNewRoman": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Times New Roman",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#183D68"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Times New Roman",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#B3CDF3"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Times New Roman",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Times New Roman",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Times New Roman",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EFEFEE"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Times New Roman",
+      "Size": "14px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#AC8F00"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Times New Roman",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "FontTrebuchetMS": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Trebuchet",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#183D68"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Trebuchet",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#B3CDF3"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Trebuchet",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Trebuchet",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Trebuchet",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EFEFEE"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Trebuchet",
+      "Size": "14px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#AC8F00"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Trebuchet",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "FontVerdana": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Verdana",
+      "Size": "18px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#183D68"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#B3CDF3"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EFEFEE"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Verdana",
+      "Size": "14px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#AC8F00"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    }
+  },
+  "Autumn": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFBA00",
+      "Font": "Merriweather",
+      "Size": "36px",
+      "Alignment" : "24px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#333333"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#333333"
+    },
+    "PageTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Roboto",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#333333"
+    },
+    "PageDescription": {
+      "Color": "#333333",
+      "Font": "Roboto",
+      "Size": "18px"
+    },
+    "QuestionText": {
+      "Color": "#333333",
+      "Font": "Roboto",
+      "Size": "24px"
+    },
+    "AnswerText": {
+      "Color": "#333333",
+      "Font": "Roboto",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#F2F2F2"
+    },
+    "RequiredAsterisk": {
+      "Color": "#FFBA00",
+      "Font": "Verdana",
+      "Size": "18px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Roboto",
+      "Size": "12px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#FFBA00"
+    },
+    "ProgressBarText": {
+      "Color": "#333333",
+      "Font": "Roboto",
+      "Size": "14px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#FFFFFF"
+    }
+  },
+  "Sky": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Helvetica Neue",
+      "Size": "18px",
+      "Alignment" : "24px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#2C7DB7"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#2C7DB7"
+    },
+    "PageTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Helvetica Neue",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#60B1DB"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Helvetica Neue",
+      "Size": "14px"
+    },
+    "QuestionText": {
+      "Color": "#4DB2EC",
+      "Font": "Helvetica Neue",
+      "Size": "24px"
+    },
+    "AnswerText": {
+      "Color": "#4A4A4A",
+      "Font": "Helvetica Neue",
+      "Size": "12px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#F5F5F5"
+    },
+    "RequiredAsterisk": {
+      "Color": "#2C7DB7",
+      "Font": "Verdana",
+      "Size": "18px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Helvetica Neue",
+      "Size": "12px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#73C2EB"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Helvetica Neue",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF",
+      "ImageChange": "3c385bf5-fc29-59de-8e83-0b2dd24f7a8b",
+      "ThumbnailChange": "99ef7f4e-dd70-5cd1-9850-cffe04f67439"
+    }
+  },
+  "Moss": {
+    "PageBackground": {
+      "Color": "transparent"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Montserrat",
+      "Size": "18px",
+      "Alignment" : "24px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#919B7E"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#919B7E"
+    },
+    "PageTitle": {
+      "Color": "#919B7E",
+      "Font": "Montserrat",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#D1DFBC"
+    },
+    "PageDescription": {
+      "Color": "#706F65",
+      "Font": "Montserrat",
+      "Size": "14px"
+    },
+    "QuestionText": {
+      "Color": "#919B7E",
+      "Font": "Montserrat",
+      "Size": "18px"
+    },
+    "AnswerText": {
+      "Color": "#706F65",
+      "Font": "Montserrat",
+      "Size": "12px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EBF0E3"
+    },
+    "RequiredAsterisk": {
+      "Color": "#919B7E",
+      "Font": "Verdana",
+      "Size": "18px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Montserrat",
+      "Size": "12px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#919B7E"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Montserrat",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF",
+      "ImageChange": "3c385bf5-fc29-59de-8e83-0b2dd24f7a8b",
+      "ThumbnailChange": "99ef7f4e-dd70-5cd1-9850-cffe04f67439"
+    }
+  },
+  "Midnight": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Open Sans",
+      "Size": "20px",
+      "Alignment" : "24px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#2F4C69"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#2F4C69"
+    },
+    "PageTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Open Sans",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#9B9B9B"
+    },
+    "PageDescription": {
+      "Color": "#706F65",
+      "Font": "Open Sans",
+      "Size": "14px"
+    },
+    "QuestionText": {
+      "Color": "#2F4C69",
+      "Font": "Open Sans",
+      "Size": "24px"
+    },
+    "AnswerText": {
+      "Color": "#706F65",
+      "Font": "Open Sans",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#F2F2F2"
+    },
+    "RequiredAsterisk": {
+      "Color": "#66A4C1",
+      "Font": "Palatino",
+      "Size": "18px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Open Sans",
+      "Size": "12px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#9B9B9B"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Open Sans",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#32373C",
+      "ImageChange": "3c385bf5-fc29-59de-8e83-0b2dd24f7a8b",
+      "ThumbnailChange": "99ef7f4e-dd70-5cd1-9850-cffe04f67439"
+    }
+  },
+  "Ocean": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Palatino",
+      "Size": "20px",
+      "Alignment" : "24px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#1E2157"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#1E2157"
+    },
+    "PageTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Palatino",
+      "Size": "16px"
+    },
+    "PageTitleBackground": {
+      "Color": "#4EADB9"
+    },
+    "PageDescription": {
+      "Color": "#706F65",
+      "Font": "Palatino",
+      "Size": "14px"
+    },
+    "QuestionText": {
+      "Color": "#1E2157",
+      "Font": "Palatino",
+      "Size": "18px"
+    },
+    "AnswerText": {
+      "Color": "#706F65",
+      "Font": "Palatino",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#F2F2F2"
+    },
+    "RequiredAsterisk": {
+      "Color": "#4EADB9",
+      "Font": "Verdana",
+      "Size": "18px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Palatino",
+      "Size": "12px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#1E2157"
+    },
+    "ProgressBarText": {
+      "Color": "#706F65",
+      "Font": "Palatino",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF",
+      "Image": "6e5b43fd-01b2-58ed-b4ae-97caa38fde8d",
+      "ImageChange": "3c385bf5-fc29-59de-8e83-0b2dd24f7a8b",
+      "ThumbnailChange": "99ef7f4e-dd70-5cd1-9850-cffe04f67439"
+    }
+  },
+  "Boardwalk": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Palatino",
+      "Size": "20px",
+      "Alignment" : "24px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#00477F"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#00477F"
+    },
+    "PageTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Palatino",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#EAABB3"
+    },
+    "PageDescription": {
+      "Color": "#706F65",
+      "Font": "Palatino",
+      "Size": "14px"
+    },
+    "QuestionText": {
+      "Color": "#00477F",
+      "Font": "Palatino",
+      "Size": "18px"
+    },
+    "AnswerText": {
+      "Color": "#706F65",
+      "Font": "Palatino",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#F2F2F2"
+    },
+    "RequiredAsterisk": {
+      "Color": "#4EADB9",
+      "Font": "Verdana",
+      "Size": "18px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Palatino",
+      "Size": "12px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#EAABB3"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Palatino",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF",
+      "Image": "7cd885f5-592c-5f14-937d-de97fd17bde5",
+      "ImageChange": "59f6edee-ff4a-5429-bf71-30e27d168188",
+      "ThumbnailChange": "59f6edee-ff4a-5429-bf71-30e27d168188"
+    }
+  },
+  "Seashell": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Palatino",
+      "Size": "20px",
+      "Alignment" : "24px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#87B6B9"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#87B6B9"
+    },
+    "PageTitle": {
+      "Color": "#87B6B9",
+      "Font": "Palatino",
+      "Size": "18px"
+    },
+    "PageTitleBackground": {
+      "Color": "#E2F8F8"
+    },
+    "PageDescription": {
+      "Color": "#706F65",
+      "Font": "Palatino",
+      "Size": "12px"
+    },
+    "QuestionText": {
+      "Color": "#87B6B9",
+      "Font": "Palatino",
+      "Size": "20px"
+    },
+    "AnswerText": {
+      "Color": "#706F65",
+      "Font": "Palatino",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#F2F2F2"
+    },
+    "RequiredAsterisk": {
+      "Color": "#87B6B9",
+      "Font": "Verdana",
+      "Size": "18px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Palatino",
+      "Size": "12px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#87B6B9"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Palatino",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF",
+      "Image": "f756a7e7-8e09-5f19-83a6-f4245cc0de4b",
+      "ImageChange": "3c385bf5-fc29-59de-8e83-0b2dd24f7a8b",
+      "ThumbnailChange": "99ef7f4e-dd70-5cd1-9850-cffe04f67439"
+    }
+  },
+  "City_Lights": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Montserrat",
+      "Size": "20px",
+      "Alignment" : "24px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "Transparent",
+      "Image": "91150b20-e796-550f-87f1-8434e43586a4"
+    },
+    "SurveyLogoBackground": {
+      "Color": "Transparent"
+    },
+    "PageTitle": {
+      "Color": "#06355C",
+      "Font": "Open Sans",
+      "Size": "16px"
+    },
+    "PageTitleBackground": {
+      "Color": "Transparent"
+    },
+    "PageDescription": {
+      "Color": "#06355C",
+      "Font": "Open Sans",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#06355C",
+      "Font": "Montserrat",
+      "Size": "20px"
+    },
+    "AnswerText": {
+      "Color": "#06355C",
+      "Font": "Open Sans",
+      "Size": "16px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#F2F2F2"
+    },
+    "RequiredAsterisk": {
+      "Color": "#4EADB9",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Montserrat",
+      "Size": "12px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#4A4A4A"
+    },
+    "ProgressBarText": {
+      "Color": "#06355C",
+      "Font": "Montserrat",
+      "Size": "11px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF",
+      "Image": "8ed28aff-d45f-5e69-8176-52521de7a9fb",
+      "ImageChange": "3c385bf5-fc29-59de-8e83-0b2dd24f7a8b",
+      "ThumbnailChange": "99ef7f4e-dd70-5cd1-9850-cffe04f67439"
+    }
+  },
+  "Charcoal" : {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Montserrat",
+      "Size": "24px",
+      "Alignment" : "24px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#000000"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#000000"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Montserrat",
+      "Size": "16px"
+    },
+    "PageTitleBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Montserrat",
+      "Size": "14px"
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Montserrat",
+      "Size": "24px"
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Droid Serif",
+      "Size": "15px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#F2F2F2"
+    },
+    "RequiredAsterisk": {
+      "Color": "#4EADB9",
+      "Font": "Droid Serif",
+      "Size": "18px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Montserrat",
+      "Size": "12px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#4A4A4A"
+    },
+    "ProgressBarText": {
+      "Color": "#4A4A4A",
+      "Font": "Montserrat",
+      "Size": "11px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF",
+      "Image": "59f6edee-ff4a-5429-bf71-30e27d168188",
+      "ImageChange": "3c385bf5-fc29-59de-8e83-0b2dd24f7a8b",
+      "ThumbnailChange": "99ef7f4e-dd70-5cd1-9850-cffe04f67439"
+    }
+  },
+  "Sea_Foam" : {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Roboto",
+      "Size": "36px",
+      "Alignment" : "24px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#42A9A8"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#42A9A8"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Roboto",
+      "Size": "16px"
+    },
+    "PageTitleBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageDescription": {
+      "Color": "#333333",
+      "Font": "Roboto",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#333333",
+      "Font": "Roboto",
+      "Size": "18px"
+    },
+    "AnswerText": {
+      "Color": "#333333",
+      "Font": "Roboto",
+      "Size": "14px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#F2F2F2"
+    },
+    "RequiredAsterisk": {
+      "Color": "#4EADB9",
+      "Font": "Droid Serif",
+      "Size": "18px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Roboto",
+      "Size": "12px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#42A9A8"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Roboto",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#FFFFFF"
+    }
+  },
+  "ChangeTypo1" : {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "Andale Mono",
+      "Size": "36px",
+      "Style": ["Bold", "Italic", "Underline"]
+    },
+    "SurveyTitleBackground": {
+      "Color": "#183D68"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageTitle": {
+      "Color": "#000000",
+      "Font": "Andale Mono",
+      "Size": "36px",
+      "Style": ["Bold", "Italic", "Underline"]
+    },
+    "PageTitleBackground": {
+      "Color": "#B3CDF3"
+    },
+    "PageDescription": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "36px",
+      "Style": ["Bold", "Italic", "Underline"]
+    },
+    "QuestionText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "36px",
+      "Style": ["Bold", "Italic", "Underline"]
+    },
+    "AnswerText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "36px",
+      "Style": ["Bold", "Italic", "Underline"]
+    },
+    "AnswerTextHighlight": {
+      "Color": "#EFEFEE"
+    },
+    "RequiredAsterisk": {
+      "Color": "#000000",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Arial",
+      "Size": "36px",
+      "Style": ["Bold", "Italic", "Underline"]
+    },
+    "ProgressBarIndicator": {
+      "Color": "#AC8F00"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Arial",
+      "Size": "36px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CCCCCC"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF"
+    },
+    "ExitLink": {
+      "Font": "Arial",
+      "Size": "36px",
+      "Style": ["Bold"]
+    }
+  },
+  "ChangeSky": {
+    "PageBackground": {
+      "Color": "#7B219F"
+    },
+    "SurveyTitle": {
+      "Color": "#000000",
+      "Font": "Comic Sans",
+      "Size": "36px",
+      "Style": ["Bold", "Italic", "Underline"]
+    },
+    "SurveyTitleBackground": {
+      "Color": "#CC0000"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFCB3E"
+    },
+    "PageTitle": {
+      "Color": "#992ABD",
+      "Font": "Comic Sans",
+      "Size": "36px",
+      "Style": ["Bold", "Italic", "Underline"]
+    },
+    "PageTitleBackground": {
+      "Color": "#F19E2D"
+    },
+    "PageDescription": {
+      "Color": "#FF6866",
+      "Font": "Comic Sans",
+      "Size": "36px",
+      "Style": ["Bold", "Italic", "Underline"]
+    },
+    "QuestionText": {
+      "Color": "#FFCB3E",
+      "Font": "Comic Sans",
+      "Size": "36px",
+      "Style": ["Bold", "Italic", "Underline"]
+    },
+    "AnswerText": {
+      "Color": "#FFCB3E",
+      "Font": "Comic Sans",
+      "Size": "36px",
+      "Style": ["Bold", "Italic", "Underline"]
+    },
+    "AnswerTextHighlight": {
+      "Color": "#467895"
+    },
+    "RequiredAsterisk": {
+      "Color": "#FF3300",
+      "Font": "Verdana",
+      "Size": "18px"
+    },
+    "ErrorText": {
+      "Color": "#FF3300",
+      "Font": "Comic Sans",
+      "Size": "36px",
+      "Style": ["Bold", "Italic", "Underline"]
+    },
+    "ProgressBarIndicator": {
+      "Color": "#000066"
+    },
+    "ProgressBarText": {
+      "Color": "#CC0000",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CC0000"
+    },
+    "ProgressBarBackground": {
+      "Color": "#000000"
+    },
+    "SurveyBackground": {
+      "Color": "#00858B",
+      "ImageChange": "3c385bf5-fc29-59de-8e83-0b2dd24f7a8b"
+    }
+  },
+  "ChangeMoss": {
+    "PageBackground": {
+      "Color": "#7B219F"
+    },
+    "SurveyTitle": {
+      "Color": "#000000",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#CC0000"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFCB3E"
+    },
+    "PageTitle": {
+      "Color": "#992ABD",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "PageTitleBackground": {
+      "Color": "#F19E2D"
+    },
+    "PageDescription": {
+      "Color": "#FF6866",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "QuestionText": {
+      "Color": "#FFCB3E",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "AnswerText": {
+      "Color": "#FFCB3E",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#467895"
+    },
+    "RequiredAsterisk": {
+      "Color": "#FF3300",
+      "Font": "Verdana",
+      "Size": "18px"
+    },
+    "ErrorText": {
+      "Color": "#FF3300",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#000066"
+    },
+    "ProgressBarText": {
+      "Color": "#CC0000",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CC0000"
+    },
+    "ProgressBarBackground": {
+      "Color": "#000000"
+    },
+    "SurveyBackground": {
+      "Color": "#00858B",
+      "ImageChange": "3c385bf5-fc29-59de-8e83-0b2dd24f7a8b"
+    }
+  },
+  "ChangeMidnight": {
+    "PageBackground": {
+      "Color": "#7B219F"
+    },
+    "SurveyTitle": {
+      "Color": "#000000",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#CC0000"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFCB3E"
+    },
+    "PageTitle": {
+      "Color": "#992ABD",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "PageTitleBackground": {
+      "Color": "#F19E2D"
+    },
+    "PageDescription": {
+      "Color": "#FF6866",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "QuestionText": {
+      "Color": "#FFCB3E",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "AnswerText": {
+      "Color": "#FFCB3E",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#467895"
+    },
+    "RequiredAsterisk": {
+      "Color": "#FF3300",
+      "Font": "Palatino",
+      "Size": "18px"
+    },
+    "ErrorText": {
+      "Color": "#FF3300",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#000066"
+    },
+    "ProgressBarText": {
+      "Color": "#CC0000",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CC0000"
+    },
+    "ProgressBarBackground": {
+      "Color": "#000000"
+    },
+    "SurveyBackground": {
+      "Color": "#00858B",
+      "ImageChange": "3c385bf5-fc29-59de-8e83-0b2dd24f7a8b"
+    }
+  },
+  "ChangeOcean": {
+    "PageBackground": {
+      "Color": "#7B219F"
+    },
+    "SurveyTitle": {
+      "Color": "#000000",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#CC0000"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFCB3E"
+    },
+    "PageTitle": {
+      "Color": "#992ABD",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "PageTitleBackground": {
+      "Color": "#F19E2D"
+    },
+    "PageDescription": {
+      "Color": "#FF6866",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "QuestionText": {
+      "Color": "#FFCB3E",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "AnswerText": {
+      "Color": "#FFCB3E",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#467895"
+    },
+    "RequiredAsterisk": {
+      "Color": "#FF3300",
+      "Font": "Verdana",
+      "Size": "18px"
+    },
+    "ErrorText": {
+      "Color": "#FF3300",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#000066"
+    },
+    "ProgressBarText": {
+      "Color": "#CC0000",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CC0000"
+    },
+    "ProgressBarBackground": {
+      "Color": "#000000"
+    },
+    "SurveyBackground": {
+      "Color": "#00858B",
+      "ImageChange": "3c385bf5-fc29-59de-8e83-0b2dd24f7a8b"
+    }
+  },
+  "ChangeBoardwalk": {
+    "PageBackground": {
+      "Color": "#7B219F"
+    },
+    "SurveyTitle": {
+      "Color": "#000000",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#CC0000"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFCB3E"
+    },
+    "PageTitle": {
+      "Color": "#992ABD",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "PageTitleBackground": {
+      "Color": "#F19E2D"
+    },
+    "PageDescription": {
+      "Color": "#FF6866",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "QuestionText": {
+      "Color": "#FFCB3E",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "AnswerText": {
+      "Color": "#FFCB3E",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#467895"
+    },
+    "RequiredAsterisk": {
+      "Color": "#FF3300",
+      "Font": "Verdana",
+      "Size": "18px"
+    },
+    "ErrorText": {
+      "Color": "#FF3300",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#000066"
+    },
+    "ProgressBarText": {
+      "Color": "#CC0000",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CC0000"
+    },
+    "ProgressBarBackground": {
+      "Color": "#000000"
+    },
+    "SurveyBackground": {
+      "Color": "#00858B",
+      "ImageChange": "3c385bf5-fc29-59de-8e83-0b2dd24f7a8b"
+    }
+  },
+  "ChangeSeashell": {
+    "PageBackground": {
+      "Color": "#7B219F"
+    },
+    "SurveyTitle": {
+      "Color": "#000000",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#CC0000"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFCB3E"
+    },
+    "PageTitle": {
+      "Color": "#992ABD",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "PageTitleBackground": {
+      "Color": "#F19E2D"
+    },
+    "PageDescription": {
+      "Color": "#FF6866",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "QuestionText": {
+      "Color": "#FFCB3E",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "AnswerText": {
+      "Color": "#FFCB3E",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#467895"
+    },
+    "RequiredAsterisk": {
+      "Color": "#FF3300",
+      "Font": "Verdana",
+      "Size": "18px"
+    },
+    "ErrorText": {
+      "Color": "#FF3300",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#000066"
+    },
+    "ProgressBarText": {
+      "Color": "#CC0000",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CC0000"
+    },
+    "ProgressBarBackground": {
+      "Color": "#000000"
+    },
+    "SurveyBackground": {
+      "Color": "#00858B",
+      "ImageChange": "3c385bf5-fc29-59de-8e83-0b2dd24f7a8b"
+    }
+  },
+  "ChangeCityLights": {
+    "PageBackground": {
+      "Color": "#7B219F"
+    },
+    "SurveyTitle": {
+      "Color": "#000000",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#CC0000"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFCB3E"
+    },
+    "PageTitle": {
+      "Color": "#06355C",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "PageTitleBackground": {
+      "Color": "#F19E2D"
+    },
+    "PageDescription": {
+      "Color": "#FF6866",
+      "Font": "Open Sans",
+      "Size": "36px"
+    },
+    "QuestionText": {
+      "Color": "#FFCB3E",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "AnswerText": {
+      "Color": "#FFCB3E",
+      "Font": "Open Sans",
+      "Size": "36px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#467895"
+    },
+    "RequiredAsterisk": {
+      "Color": "#FF3300",
+      "Font": "Verdana",
+      "Size": "16px"
+    },
+    "ErrorText": {
+      "Color": "#FF3300",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#000066"
+    },
+    "ProgressBarText": {
+      "Color": "#CC0000",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CC0000"
+    },
+    "ProgressBarBackground": {
+      "Color": "#000000"
+    },
+    "SurveyBackground": {
+      "Color": "#00858B",
+      "ImageChange": "3c385bf5-fc29-59de-8e83-0b2dd24f7a8b"
+    }
+  },
+  "ChangeCharcoal": {
+    "PageBackground": {
+      "Color": "#7B219F"
+    },
+    "SurveyTitle": {
+      "Color": "#000000",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#CC0000"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFCB3E"
+    },
+    "PageTitle": {
+      "Color": "#992ABD",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "PageTitleBackground": {
+      "Color": "#F19E2D"
+    },
+    "PageDescription": {
+      "Color": "#FF6866",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "QuestionText": {
+      "Color": "#FFCB3E",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "AnswerText": {
+      "Color": "#FFCB3E",
+      "Font": "Droid Serif",
+      "Size": "36px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#467895"
+    },
+    "RequiredAsterisk": {
+      "Color": "#FF3300",
+      "Font": "Droid Serif",
+      "Size": "18px"
+    },
+    "ErrorText": {
+      "Color": "#FF3300",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#000066"
+    },
+    "ProgressBarText": {
+      "Color": "#CC0000",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CC0000"
+    },
+    "ProgressBarBackground": {
+      "Color": "#000000"
+    },
+    "SurveyBackground": {
+      "Color": "#00858B",
+      "ImageChange": "3c385bf5-fc29-59de-8e83-0b2dd24f7a8b"
+    }
+  },
+  "ChangeSeafoam": {
+    "PageBackground": {
+      "Color": "#7B219F"
+    },
+    "SurveyTitle": {
+      "Color": "#000000",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#CC0000"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFCB3E"
+    },
+    "PageTitle": {
+      "Color": "#992ABD",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "PageTitleBackground": {
+      "Color": "#F19E2D"
+    },
+    "PageDescription": {
+      "Color": "#FF6866",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "QuestionText": {
+      "Color": "#FFCB3E",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "AnswerText": {
+      "Color": "#FFCB3E",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#467895"
+    },
+    "RequiredAsterisk": {
+      "Color": "#FF3300",
+      "Font": "Droid Serif",
+      "Size": "18px"
+    },
+    "ErrorText": {
+      "Color": "#FF3300",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#000066"
+    },
+    "ProgressBarText": {
+      "Color": "#CC0000",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CC0000"
+    },
+    "ProgressBarBackground": {
+      "Color": "#000000"
+    },
+    "SurveyBackground": {
+      "Color": "#00858B",
+      "ImageChange": "3c385bf5-fc29-59de-8e83-0b2dd24f7a8b"
+    }
+  },
+  "ChangeAutumn": {
+    "PageBackground": {
+      "Color": "#7B219F"
+    },
+    "SurveyTitle": {
+      "Color": "#000000",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#CC0000"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#FFCB3E"
+    },
+    "PageTitle": {
+      "Color": "#992ABD",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "PageTitleBackground": {
+      "Color": "#F19E2D"
+    },
+    "PageDescription": {
+      "Color": "#FF6866",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "QuestionText": {
+      "Color": "#FFCB3E",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "AnswerText": {
+      "Color": "#FFCB3E",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#467895"
+    },
+    "RequiredAsterisk": {
+      "Color": "#FF3300",
+      "Font": "Verdana",
+      "Size": "18px"
+    },
+    "ErrorText": {
+      "Color": "#FF3300",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#000066"
+    },
+    "ProgressBarText": {
+      "Color": "#CC0000",
+      "Font": "Comic Sans",
+      "Size": "36px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#CC0000"
+    },
+    "ProgressBarBackground": {
+      "Color": "#000000"
+    },
+    "SurveyBackground": {
+      "Color": "#00858B",
+      "ImageChange": "3c385bf5-fc29-59de-8e83-0b2dd24f7a8b"
+    }
+  },
+  "Jungle": {
+    "PageBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyTitle": {
+      "Color": "#FFFFFF",
+      "Font": "National2",
+      "Size": "24px",
+      "Alignment" : "24px"
+    },
+    "SurveyTitleBackground": {
+      "Color": "#00bf6f"
+    },
+    "SurveyLogoBackground": {
+      "Color": "#00bf6f"
+    },
+    "PageTitle": {
+      "Color": "#333e48",
+      "Font": "National2",
+      "Size": "24px"
+    },
+    "PageTitleBackground": {
+      "Color": "#FFFFFF"
+    },
+    "PageDescription": {
+      "Color": "#333e48",
+      "Font": "National2",
+      "Size": "16px"
+    },
+    "QuestionText": {
+      "Color": "#00bf6f",
+      "Font": "National2",
+      "Size": "24px"
+    },
+    "AnswerText": {
+      "Color": "#333e48",
+      "Font": "National2",
+      "Size": "16px"
+    },
+    "AnswerTextHighlight": {
+      "Color": "#d0d2d3"
+    },
+    "RequiredAsterisk": {
+      "Color": "#00bf6f",
+      "Font": "Verdana",
+      "Size": "36px"
+    },
+    "ErrorText": {
+      "Color": "#CC0000",
+      "Font": "Helvetica Neue",
+      "Size": "12px"
+    },
+    "ProgressBarIndicator": {
+      "Color": "#00bf6f"
+    },
+    "ProgressBarText": {
+      "Color": "#000000",
+      "Font": "Helvetica Neue",
+      "Size": "12px"
+    },
+    "ProgressBarBorder": {
+      "Color": "#FFFFFF"
+    },
+    "ProgressBarBackground": {
+      "Color": "#FFFFFF"
+    },
+    "SurveyBackground": {
+      "Color": "#EFEFEF",
+      "ImageChange": "3c385bf5-fc29-59de-8e83-0b2dd24f7a8b",
+      "ThumbnailChange": "99ef7f4e-dd70-5cd1-9850-cffe04f67439"
+    }
+  }
+}
